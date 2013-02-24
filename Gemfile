@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "railties"
+gem "rails"
 gem "sqlite3-ruby", :require => "sqlite3"
 gem 'sass'
 gem 'coffee-script'

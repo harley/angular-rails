@@ -17,5 +17,4 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
   s.add_dependency "railties"
   s.add_dependency "coffee-script", '~> 2.2.0'
-
 end
